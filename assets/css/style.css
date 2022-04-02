@@ -58,14 +58,14 @@ body {
 
 .login-button button {
     border: none;
-    background-color: #6c63ff;
+    background-color: #2519d5;
     padding: 0.4rem 1rem;
     border-radius: 5px;
     cursor: pointer;
 }
 
 .login-button button:hover {
-    background-color: #6b63fff1;
+    background-color: #331975ac;
 }
 
 .login-button button a {
